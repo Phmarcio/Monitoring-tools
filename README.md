@@ -7,6 +7,7 @@ Este repositório contém uma coleção de ferramentas de monitoração e monito
   -  cAdvisor
   -  Prometheus
   -  Grafana
+  -  NodeExporter
 
 ### Como Utilizar
 
